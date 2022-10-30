@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/YelpApp/static/css/main.d4e3903d.chunk.css",
+    "main.js": "/YelpApp/static/js/main.a2c10305.chunk.js",
+    "runtime-main.js": "/YelpApp/static/js/runtime-main.8b754ff9.js",
+    "static/js/2.67de0bb3.chunk.js": "/YelpApp/static/js/2.67de0bb3.chunk.js",
+    "index.html": "/YelpApp/index.html",
+    "precache-manifest.ddd6786e73d737d58340abcd136ebd86.js": "/YelpApp/precache-manifest.ddd6786e73d737d58340abcd136ebd86.js",
+    "service-worker.js": "/YelpApp/service-worker.js",
+    "static/js/2.67de0bb3.chunk.js.LICENSE": "/YelpApp/static/js/2.67de0bb3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b754ff9.js",
+    "static/js/2.67de0bb3.chunk.js",
+    "static/css/main.d4e3903d.chunk.css",
+    "static/js/main.a2c10305.chunk.js"
+  ]
+}
